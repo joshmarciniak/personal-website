@@ -1,6 +1,6 @@
 {
   "name": "personal-website",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -34,6 +34,12 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
-    "typescript": "~4.7.2"
-  }
+    "typescript": "~4.7.2",
+    "three": "^0.142.0"
+  },
+  "description": "My personal website",
+  "main": "index.js",
+  "repository": "https://github.com/joshmarciniak/personal-website.git",
+  "author": "Josh Marciniak <jl.marciniak@comcast.net>",
+  "license": "MIT"
 }
